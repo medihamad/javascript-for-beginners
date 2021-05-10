@@ -130,4 +130,3 @@ console.log(numbers);
 
     we shall discuss more about arrays and object in the later sessions.
 */
-
